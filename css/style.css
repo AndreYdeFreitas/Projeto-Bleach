@@ -7,7 +7,7 @@ html{
 
 body {
     font-family: serif;
-    color: #dcd7d7cc;
+    color: #ffffffb7;
     font-variant: initial;
     background-image: url(/img/capa.jpg);
 
@@ -94,7 +94,7 @@ body {
 .curiosities-container {
     padding: 10px 0;
     margin: 25px 0;
-    border-top: 1px dashed #ddd;
+    border-top: 1px dashed #e4dada;
 
 }
 
@@ -115,7 +115,7 @@ body {
     text-align: center;
 }
 
-.moreinfor-container a{
+.moreinfor-container a, h2{
     color: brown;
     border-top: 1px dashed #ddd;
 }
