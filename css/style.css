@@ -95,7 +95,6 @@ body {
     padding: 10px 0;
     margin: 25px 0;
     border-top: 1px dashed #ddd;
-    border-bottom: 1px dashed #ddd;
 
 }
 
@@ -118,7 +117,11 @@ body {
 
 .moreinfor-container a{
     color: brown;
+    border-top: 1px dashed #ddd;
 }
+
+.moreinfor-container
+
 .quotes-container-2 figcaption{
     text-decoration: underline;
 
