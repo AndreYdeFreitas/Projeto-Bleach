@@ -67,7 +67,7 @@ body {
     padding: 25px 0;
     margin: 25px 0;
     border-top: 1px dashed #000000 none;
-    border-bottom: 1px dashed #0b0b0b;
+    border-bottom: 1px dashed #0b0b0b none;
 }
 
 
