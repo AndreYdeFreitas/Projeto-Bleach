@@ -27,7 +27,7 @@ body {
 }
 
 .container p,figcaption {
-    text-decoration: underline;
+    text-decoration: underline none;
 
 }
 
@@ -66,7 +66,7 @@ body {
 .biography-container {
     padding: 25px 0;
     margin: 25px 0;
-    border-top: 1px dashed #000000;
+    border-top: 1px dashed #000000 none;
     border-bottom: 1px dashed #0b0b0b;
 }
 
@@ -98,6 +98,10 @@ body {
 
 }
 
+.curiosities-container h2{
+    text-decoration: underline;
+}
+
 .curiosities-container p{
     height: 10px;
     font-style:italic;
@@ -115,7 +119,7 @@ body {
     text-align: center;
 }
 
-.moreinfor-container a, h2{
+.moreinfor-container a, h5{
     color: brown;
     border-top: 1px dashed #ddd;
 }
