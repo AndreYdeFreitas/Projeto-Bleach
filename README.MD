@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -46,17 +46,14 @@
                 <h3> <ul>Volume 01:</ul>
                 “The Death and the Strawberry"</h3>
                 <p>”Nós somos gratos por não termos forma.”</p><br>
-
                 <h3> <ul>Volume 02:</ul> 
                 “Goodbye Parakeet, Goodnight my Sista”</h3>
                 <p>”As pessoas só conseguem manter a esperança
                 por que seus olhos são incapazes de enxergar a morte”</p>.
-
                 <h3><ul>Volume 03:</ul> 
                 "Memories in the Rain"</h3>
                 <p>Se eu fosse a chuva, poderia unir meu coração ao de outro alguém?
                 Assim como ela une os eternamente distantes céu e terra</p>.
-
                 <h3><ul>Volume 04:</ul> 
                 "Quincy Archer Hates You"</h3>
                 <p>Quando nos encontramos, nos unimos,
@@ -68,70 +65,58 @@
                 não posso te proteger.
                 “Mas se eu empunhar a espada,
                 não posso te abraçar.</p><br>
-
                 <h3><ul>Volume 06:</ul> 
                 "The Death Trilogy Overture"</h3>
                 <p>Em verdade, para nós não existe "destino".
                 Somente aqueles que, embebidos em medo e ignorância,
                 perdem o passo e caem no rio lamacento que chamam de "destino".</p><br>
-
                 <h3><ul>Volume 07:</ul> 
                 "The Broken Coda"</h3>
                 <p>Nós não devemos derramar lágrimas pois, para o coração, essa é a derrota do corpo carnal.
                 Não há prova mais contundente de que nossas emoções estão além de nosso controle</p>.
-
                 <h3><ul>Volume 08:</ul> 
                 " The Blade and Me"</h3>
                 <p>Uma vez enferrujado, não consegue mais abrir caminho.
                 Uma vez sem controle, rasga a si próprio em pedaços.
                 Sim, o orgulho se parece com uma espada</p>.
-
                 <h3><ul>Volume 09:</ul> 
                 "Fourteen Days for Conspiracy"</h3>
                 <p>Sim, mesmo com olhos abertos sonhamos voar através dos céus</p>.
-
                 <h3><ul>Volume 10:</ul> 
                 "Tatoo on the Sky"</h3>
                 <p>Esticando as mãos
                 Atravessamos as nuvens e cruzamos os céus.
                 Contudo, mesmo se capturássemos a Lua e Marte
                 Ainda não alcançaríamos a verdade</p>.
-
                 <h3><ul>Volume 11:</ul>  
                 "A Star and a Stray Dog"</h3>
                 <p>Incendeio minhas presas para alcançar o inatingível
                 Para não ter que encarar aquela estrela
                 E não precisar rasgar minha garganta</p>.
-
                 <h3><ul>Volume 12:</ul> 
                 " Flower on the Precipice"</h3>
                 <p>Apreciamos a beleza de uma flor no penhasco
                 Porque nossos pés param á beira do precipício
                 Ao invés de, como aquela flor,
                 Seguir em frente em direção aos céus</p>.
-
                 <h3><ul>Volume 13:</ul> 
                 " The Undead"</h3>
                 <p>Sempre que nos desfazemos de nosso orgulho,
                 Ficamos um passo mais perto de nos tornarmos feras.
                 Sempre que assassinamos um coração,
                 Ficamos um passo distante de nos tornarmos feras</p>.
-
                 <h3><ul>Volume 14:</ul> 
                 "White Tower Rocks"</h3>
                 <p>Rangendo, Rangendo; a torre dos pecados purificados como a luz, ela passará através deste mundo.
                 Balançando, balançando; a torre em nossa espinha.
                 Aqueles que cairão seremos nós? ou o céu?</p><br>
-
                 <h3><ul>Volume 15:</ul>
                 <p>"Permaneço somente na prática de meu adeus a ti".</p></h3><br>
-
                 <h3><ul>Volume 16:</ul>
                 " Night of Wijnruit"</h3>
                 <p>Os raios de sol que aos poucos banham a Terra
                 apagam as pegadas deixadas na fina camada de neve.
                 Não tema ser iludido, pois o mundo já está repleto de decepções</p>.
-
                 <h3><ul>Volume 17:</ul> 
                 "Rosa Rubicundior, Lilio Candidior"</h3>
                 <p>Vermelho como o sangue,
@@ -145,7 +130,6 @@
                 Vermelho como as sombras que devoram a noite,
                 Como um suspiro que atravessam a Lua.
                 Brilha branco e dispersa-se em escarlate</p>.<br>
-
                 <br><h3><ul>Volume 18:</ul>
                 " The Deathberry Returns"</h3>
                 <p>Sua sombra, vagarosamente
@@ -154,23 +138,19 @@
                 A sua luz, suavemente
                 Como um trovão atinge a torre de água
                 Corta a fonte da minha vida</p>.
-
                 <h3><ul>Volume 19:</ul> 
                 " The Black Moon Rising"</h3>
                 <p>É verdade, nada mais pode mudar meu mundo</p>.
-
                 <h3><ul>Volume 20:</ul> 
                 "End of Hypnosis"</h3>
                 <p>Aqueles que não sabem o que é amor
                 comparam-no á beleza.
                 Aqueles que desejam saber o que é amor
                 comparam-no á feiura.</p><br>
-
                 <h3><ul>Volume 21:</ul>
                 "Be my family or not"</h3>
                 <p>Este mundo inteiro existe
                 apenas para te encurralar</p>.
-
                 <h3><ul>Volume 22:</ul> 
                 "Conquistadores"</h3>
                 <p>Não há sentido em nosso mundo,
@@ -178,7 +158,6 @@
                 Nós, seres sem sentido, pensamos sobre o mundo
                 E a percepção da falta de sentido nisso
                 Não significa nada</p>.
-
                 <h3><ul>Volume 23:</ul> 
                 “Mala Suerte"</h3>
                 <p>Somos o peixe em frente à cachoeira
@@ -190,11 +169,9 @@
                 O monstro que cospe fogo
                 A criança que chora e esperneia
                 Ah, estamos apenas envenenados pela luz do luar</p>.<br>
-
                 <br><h3><ul>Volume 24:</ul> 
                 "Immanent God Blues"</h3>
                 <p>Fodam-se todos vocês</p>.
-
                 <h3><ul>Volume 25:</ul> 
                 "No Shaking Throne"</h3>
                 <p>Todos já estamos mortos desde que nascemos.
@@ -206,12 +183,10 @@
                 Não queiramos saber de tudo.
                 Aquele que não tem capacidade de sobrepujar a morte
                 Não deve querer conhecer de tudo na vida.</p><br>
-
                 <br><h3><ul>Volume 26:</ul> 
                 "The Mascaron Drive"</h3>
                 <p>A voz que perfura profundamente meu peito
                 Soa como uma ovação sem fim.</p>
-
                 <br><h3><ul>Volume 27:</ul> 
                 "Goodbye, Halcyon Days"</h3>
                 <p>Dentre nós
@@ -222,7 +197,6 @@
                 em nenhuma das quatro direções;
                 Mas o quinto caminho certamente existe,
                 onde está o coração</p>.
-
                 <br><h3><ul>Volume 28:</ul> 
                 "Baron"s Lecture: Full-Course"</h3>
                 <p>Ó, Senhor
@@ -231,7 +205,6 @@
                 Olhos ornados de algo imensurável
                 Similar à esperança, adoração…
                 E pavor.<p>
-
                 <h3><ul>Volume 29:</ul> 
                 "The Slashing Opera"</h3>
                 <p>Enfeito-os por puro capricho
@@ -248,16 +221,13 @@
                 A resposta é simples.
                 Porque eles nada mais são
                 do que reflexo da aparência de nossa própria morte</p>.<br><br>
-                
                 <br><h3><ul>Volume 30:</ul> 
                 "There is No Heart Without You"</h3>
                 <p>Esta ferida… é tão profunda quanto o oceano
                 Este pecado ensanguentado… é tão incolor quanto a morte</p>.
-
                 <h3><ul>Volume 31:</ul> 
                 "Don"t Kill My Volupture"</h3>
                 <p>Diga que me odeia mais que tudo no mundo</p>.
-
                 <h3><ul>Volume 32:</ul> 
                 "Howling"</h3>
                 <p>O Rei corre.
@@ -269,7 +239,6 @@
                 Encobrindo seu coração.
                 Sozinho, ele dá um passo
                 Rumo ao horizonte longínquo</p>.
-
                 <h3><ul>Volume 33:</ul> 
                 "The Bad Joke"</h3>
                 <p>Somo bichos.
@@ -277,7 +246,6 @@
                 Erguendo a cabeça
                 mais alto do que a lua
                 Só para não precisar olhar para vocês, miseráveis</p>.
-
                 <h3><ul>Volume 34:</ul> 
                 "King of the Kill"</h3>
                 <p>Se me dessem assas
@@ -286,33 +254,27 @@
                 Se me dessem uma espada
                 Eu me levantaria por você.
                 Mesmo que tudo no céu, com suas luzes, viesse a alvejar você</p>.
-
                 <h3><ul>Volume 35:</ul> 
                 "Higher than the Moon"</h3>
                 <p>Ser parido no mundo
                 É praticamente como morrer</p>.
-
                 <h3><ul>Volume 36:</ul> 
                 "Turn Back the Pendulum"</h3>
                 <p>Ainda é cedo para acreditar</p>.
-
                 <h3><ul>Volume 37:</ul> 
                 "Beauty is so Solitary"</h3>
                 <p>Não acho as pessoas belas
                 Como acho que as flores são.
                 Pessoas são parecidas com flores
                 Só quando caem mutiladas ao chão</p>.
-
                 <h3><ul>Volume 38:</ul> 
                 "Fear for Fight"</h3>
                 <p>Se há algo que temo
                 É me tornar um guerreiro sem temores</p>.
-
                 <h3><ul>Volume 39:</ul> 
                 "El Verdugo"</h3>
                 <p>Humanos erram.
                 Demônios matam</p>.
-
                 <h3><ul>Volume 40:</ul> 
                 "The Lust"</h3>
                 <p>Por ter um coração, invejo.
@@ -322,14 +284,12 @@
                 Por ter um coração, vadio.
                 Por ter um coração, enfureço.
                 Por ter um coração, desejo tudo o que há em você</p>.
-
                 <h3><ul>Volume 41:</ul> 
                 "The Heart"</h3>
                 <p>Corro para obter
                 Tudo aquilo que perdi.
                 Sangue, carne, ossos
                 E algo mais</p>.
-
                 <h3><ul>Volume 42:</ul> 
                 "Shock of the Queen"</h3>
                 <p>Não existe mundo isento de sacrifícios.
@@ -338,32 +298,27 @@
                 É a isso que damos o nome,
                 supostamente,
                 de mundo</p>.
-
                 <h3><ul>Volume 43:</ul> 
                 "Kingdom of Hollows"</h3>
                 <p>A putrfação é minha amiga.
                 A noite, minha serva.
                 Deixo corvos bicarem meu corpo
                 Enquanto espero por ti em minha mansão de alma</p>.
-
                 <h3><ul>Volume 44:</ul> 
                 "Vice It"</h3>
                 <p>O ser humano é mau em sua essência.
                 Por isso, para se sentir justo, não conhece outra maneira senão interpretar no outro um mal maior do que o seu.
                 A justiça convicta tende a se tornar perversa.
                 Para que a justiça seja realmente justa é preciso questionar continuamente o que é a justiça para si mesmo</p>.<br>
-
                 <br><h3><ul>Volume 45:</ul> 
                 "The Burnout Inferno"</h3>
                 <p>A viver curvado,
                 Escolha morrer erguido</p>.
-
                 <h3><ul>Volume 46:</ul> 
                 "Back from Blind"</h3>
                 <p>Não temo conhecer a infelicidade.
                 O que temo é saber que a felicidade que se foi
                 Jamais voltará</p>.
-
                 <h3><ul>Volume 47:</ul> 
                 "End of the Chrysalis Age"</h3>
                 <p>Se amanhã tu te tornasses serpente
@@ -371,17 +326,14 @@
                 Se ainda engolindo a carne uivasses amor por mim.
                 Será que eu ainda seria capaz
                 De confessar igual amor ao que sinto hoje por ti?</p><br>
-
                 <br><h3><ul>Volume 48:</ul> 
                 "God is Dead"</h3>
                 <p>Pessoas não passam de primatas corrompidos.
                 Assim como Deus não passa de uma pessoa corrompida</p>.
-
                 <h3><ul>Volume 49:</ul> 
                 "The Lost Agent"</h3>
                 <p>“Como faço para me acostumar
                 a fugacidade desse mundo sem você?</p>
-
                 <br><h3><ul>Volume 50:</ul> 
                 “The Six Fullbringers"</h3>
                 <p>“O tempo sempre nos surpreender pelas costas
@@ -392,18 +344,15 @@
                 Não olhe pra frente.
                 Pois sua esperança está no turbilhão escuro e caótico
                 Que circula atrás de você</p>.
-
                 <h3><ul>Volume 51:</ul> 
                 “Love me Bitterly Loth me Sweetly"</h3>
                 <p>“Não meta o dedo
                 No meu coração</p>.
-
                 <h3><ul>Volume 52:</ul> 
                 “End of Bound"</h3>
                 <p>“Vem contar comigo
                 As marcas de mordida
                 Que deixei em você</p>.
-
                 <h3><ul>Volume 53:</ul> 
                 “The Deathberry Returns 2"</h3>
                 <p>“O fato de ser tão jovem
@@ -411,43 +360,35 @@
                 Parece ser imperdoável pra esses adultos
                 Que se gabam da incontestável perfeição
                 De sua decrepitude</p>.
-
                 <h3><ul>Volume 54:</ul> 
                 “Goodbye to Our Xcution"</h3>
                 <p>“Se podes dizer que teu coração é integro
                 Só isso já configura tua força</p>.
-
                 <h3><ul>Volume 55:</ul> 
                 “The Blood Warfare"</h3>
                 <p>“Dê 1 passo adiante
                 E em 2 segundos não haverá mais volta
                 Rumo aos 3 Mil Mundos de um mar de sangue</p>.
-
                 <h3><ul>Volume 56:</ul> 
                 “March of the Starcross"</h3>
-                <p>Batalhão marcha, marchando, a trombeta vai soar.
+                <p>Batalhão marcha, marchando, a trombeta vaisoar.
                 O Zumbido ao ouvido, como a estrela a tilintar.
                 As botas na cadência, como trovão a rufar</p>.
-
                 <h3><ul>Volume 57:</ul> 
                 “Out of Bloom"</h3>
                 <p>“Mesmo que eu desvaneça, e jamais possa florescer novamente
                 “Desvanecerei como uma chama, lindamente"</p>.
-
                 <h3><ul>Volume 58:</ul> 
                 “The Fire"</h3>
                 <p>“Uma alma ardente…
                 Desce sobre os céus"</p><br>  
-
                 <h3><ul>Volume 59:</ul>
                 “The Battle"</h3>
                 <p>“Lutar é tudo</p><br>
-
                 <h3><ul>Volume  60:</ul> 
                 “Everything But The Rain"</h3>
                 <p>“Em tua inocência, pareces o sol,
                 Em pecado também, pareces o sol"</p>.
-                
                 <h3><ul>Volume 61:</ul>
                 “The Last 9 Days"</h3>
                 <p>“Minha crença de que o mundo está cheio de perigos 
