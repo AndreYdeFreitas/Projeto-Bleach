@@ -11,6 +11,12 @@
             <!-- Cabeçalho -->
             <div class="header">
                 <h1 class="main-title">Bleach</h1>
+                <h2>Mais informações</h2>
+                    <p2 class="link-projeto">
+                    Para mais informações click no link
+                    <a1 href="http://127.0.0.1:5500/index.html"
+                    >clique no link</a1>
+                    </p2>
                 <p class="main-paragraph">Um anime de ceifadores de almas "shinigamy"</p>
             </div>
             <!--imagem de destaque -->
